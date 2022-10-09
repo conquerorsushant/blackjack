@@ -1,0 +1,28 @@
+body {
+  background-image: url("up.jpg");
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+h1 {
+  color: red;
+}
+#first {
+  font-weight: bold;
+  font-style: italic;
+}
+.uti {
+  background-color: red;
+  font-weight: bold;
+  padding: 4px 12px 4px 12px;
+  width: 150px;
+  color: darkslategrey;
+  border: none;
+  border-radius: 2px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
